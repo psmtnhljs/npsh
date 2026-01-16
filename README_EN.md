@@ -7,7 +7,7 @@
 
 - Stable: v1.14.3
 - Development: v1.14.2-b3
-- LTS: 
+- LTS: v1.10.3
 
 ---
 
